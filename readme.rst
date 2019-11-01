@@ -14,10 +14,16 @@ This repo contains in-development code for future releases.
 Changelog and New Features
 **************************
 
-Added htaccess and remove index.php default
-Added sample view and controller
-Added assets folder, and favicon inside
+- Added .htaccess and remove index.php default index_page
+- Added sample view and controller
+- Added assets folder with bulma CSS and favicon inside
 
+**************************
+TODO
+**************************
+
+- Add sample model
+- complete the CRUD basic code example
 
 **************************
 Info below is the same as CodeIgniter Readme.md
